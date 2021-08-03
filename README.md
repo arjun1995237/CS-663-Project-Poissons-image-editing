@@ -1,13 +1,13 @@
 # DIP_project_
 
 
-![alt text](https://github.com/arjun1995237/CS-663-Project-Poissons-image-editing/blob/main/poisson_result1.png.jpeg?raw=true)
+![alt text](https://github.com/arjun1995237/CS-663-Project-Poissons-image-editing/blob/main/poisson_result1.png?raw=true)
 
-![alt text](https://github.com/arjun1995237/CS-663-Project-Poissons-image-editing/blob/main/poisson_result2.png.jpeg?raw=true)
+![alt text](https://github.com/arjun1995237/CS-663-Project-Poissons-image-editing/blob/main/poisson_result2.png?raw=true)
 
-![alt text](https://github.com/arjun1995237/CS-663-Project-Poissons-image-editing/blob/main/poisson_result4.png.jpeg?raw=true)
+![alt text](https://github.com/arjun1995237/CS-663-Project-Poissons-image-editing/blob/main/poisson_result4.png?raw=true)
 
-![alt text](https://github.com/arjun1995237/CS-663-Project-Poissons-image-editing/blob/main/poisson_result5.png.jpeg?raw=true)
+![alt text](https://github.com/arjun1995237/CS-663-Project-Poissons-image-editing/blob/main/poisson_result5.png?raw=true)
 
 Function is as called as follows
 
